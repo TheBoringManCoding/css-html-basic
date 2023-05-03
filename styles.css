@@ -1,0 +1,181 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    /* background-color: #155006; */
+    background-image: url(main1.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    font-family: sans-serif;
+}
+.menu-bar {
+    background-color: #176603;
+    text-align: center; 
+    /* display: inline-flex;
+    list-style: none;
+    color: white; */
+}
+.menu-bar ul{
+    display: inline-flex;
+    list-style: none;
+    color: white;
+}
+.menu-bar ul li{
+    width: 120px;
+    margin: 15px;
+    padding-bottom: 15px;
+}
+.menu-bar ul li a{
+    text-decoration: none;
+    color: white;
+}
+.menu-bar ul li:hover{
+    background: rgba(13, 209, 72, 0.733);
+    border-radius: 2px;
+}
+.menu-bar .fa-house, .fa-clone, .fa-users, .fa-graduation-cap, .fa-phone{
+    margin-right: 8px;
+}
+.menu-detail a:hover .sub-menu{
+    display: block;
+    position: absolute;
+    background: rgb(48, 192, 48);
+    margin-top: 15px;
+    margin-left: -15px;
+}
+.menu-detail a:hover .sub-menu ul{
+    display: block;
+    margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
